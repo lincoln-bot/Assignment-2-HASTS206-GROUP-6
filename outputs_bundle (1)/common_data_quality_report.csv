@@ -1,0 +1,6 @@
+Dataset,Rows,Columns,Missing,Duplicates
+districts,24,10,2,0
+age_sex,864,9,0,0
+life_table,18,5,2,0
+scenarios,3,6,0,0
+insured,96,6,0,0

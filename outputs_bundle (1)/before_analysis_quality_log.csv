@@ -1,0 +1,6 @@
+Dataset,Rows,Columns,Missing Values,Duplicate Rows,Numeric Columns
+age_sex.csv,864,9,0,0,7
+insured_transitions.csv,96,6,0,0,3
+life_table_inputs.csv,18,5,2,0,5
+projection_scenarios.csv,3,6,0,0,5
+districts.csv,24,10,2,0,7
